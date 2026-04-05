@@ -1,6 +1,6 @@
 # markdown → pdf
 
-A minimal browser-based Markdown editor with one-click PDF export. No uploads, no servers — everything runs locally.
+A minimal browser-based Markdown editor with one-click PDF export. No uploads, no servers everything runs locally.
 
 ## Features
 
